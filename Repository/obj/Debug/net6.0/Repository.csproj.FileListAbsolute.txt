@@ -1,0 +1,38 @@
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.pdb
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.pdb
+D:\ereny\API Book App\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.pdb
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
+D:\ereny\API Book App\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\bin\Debug\net6.0\Shared.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll

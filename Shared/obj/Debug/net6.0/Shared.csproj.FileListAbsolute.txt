@@ -1,0 +1,22 @@
+D:\ereny\API Book App\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\ereny\API Book App\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.dll
+D:\ereny\API Book App\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.pdb
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
+D:\ereny\API Book App\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\bin\Debug\net6.0\Shared.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\Shared.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Shared\obj\Debug\net6.0\ref\Shared.dll

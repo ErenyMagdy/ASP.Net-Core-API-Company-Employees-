@@ -1,0 +1,34 @@
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.dll
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+D:\ereny\API Book App\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.pdb
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.Up2Date
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\ereny\API Book App\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\bin\Debug\net6.0\Shared.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.Up2Date
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll

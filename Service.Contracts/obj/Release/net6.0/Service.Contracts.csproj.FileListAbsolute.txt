@@ -1,0 +1,17 @@
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Service.Contracts.deps.json
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Service.Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Service.Contracts.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Entities.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Shared.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Entities.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\bin\Release\net6.0\Shared.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.AssemblyInfo.cs
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service..DEC3DE55.Up2Date
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\refint\Service.Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\Service.Contracts.pdb
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Release\net6.0\ref\Service.Contracts.dll
