@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\responses\\companynotfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\responses\\companynotfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\responses\\apibadrequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\responses\\apibadrequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\responses\\apinotfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\responses\\apinotfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\responses\\apiokresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\responses\\apiokresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\responses\\apibaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\responses\\apibaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E485BF6-360E-40BC-B2D4-9A0433633ABF}|CompanyEmployees\\CompanyEmployees.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\companyemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,10 +84,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\configurationmodels\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\configurationmodels\\jwtconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5F2E1276-E3AF-4739-8FF6-509C4E82D2F0}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2715929-1101-48DD-9137-BA1DFDF5434D}|Service.Contracts\\Service.Contracts.csproj|d:\\my study\\asp.net api book practice\\companyemployees\\service.contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -292,49 +304,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CompanyEmployees\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CompanyEmployees\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-04T15:08:27.18Z",
+              "DocumentIndex": 0,
+              "Title": "CompanyNotFoundResponse.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\CompanyNotFoundResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\Responses\\CompanyNotFoundResponse.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\CompanyNotFoundResponse.cs",
+              "RelativeToolTip": "Entities\\Responses\\CompanyNotFoundResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:12:16.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250526052748_AdditionalUserFiledsForRefreshToken.cs",
-              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
-              "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
-              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
-              "RelativeToolTip": "CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApiBadRequestResponse.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiBadRequestResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\Responses\\ApiBadRequestResponse.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiBadRequestResponse.cs",
+              "RelativeToolTip": "Entities\\Responses\\ApiBadRequestResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T05:27:48.796Z"
+              "WhenOpened": "2025-08-09T17:11:03.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ApiNotFoundResponse.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiNotFoundResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\Responses\\ApiNotFoundResponse.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiNotFoundResponse.cs",
+              "RelativeToolTip": "Entities\\Responses\\ApiNotFoundResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:08:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiOkResponse.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiOkResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\Responses\\ApiOkResponse.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiOkResponse.cs",
+              "RelativeToolTip": "Entities\\Responses\\ApiOkResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:03:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiBaseResponse.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiBaseResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\Responses\\ApiBaseResponse.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Responses\\ApiBaseResponse.cs",
+              "RelativeToolTip": "Entities\\Responses\\ApiBaseResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:00:50.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Extensions\\ServiceExtensions.cs",
               "RelativeToolTip": "CompanyEmployees\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T06:05:20.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Program.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Program.cs",
@@ -342,25 +394,11 @@
               "RelativeToolTip": "CompanyEmployees\\Program.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T10:03:50.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T10:03:50.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\appsettings.json",
-              "RelativeDocumentMoniker": "CompanyEmployees\\appsettings.json",
-              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\appsettings.json",
-              "RelativeToolTip": "CompanyEmployees\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-04T13:58:27.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RepositoryContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\RepositoryContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\RepositoryContextModelSnapshot.cs",
@@ -372,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20250217091421_DatabaseCreation.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250217091421_DatabaseCreation.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\20250217091421_DatabaseCreation.cs",
@@ -384,7 +422,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T11:13:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250526052748_AdditionalUserFiledsForRefreshToken.cs",
+              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
+              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
+              "RelativeToolTip": "CompanyEmployees\\Migrations\\20250526052748_AdditionalUserFiledsForRefreshToken.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:27:48.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20250525081923_AddedRolesToDb.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250525081923_AddedRolesToDb.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\20250525081923_AddedRolesToDb.cs",
@@ -396,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20250525080904_CreatingIdentityTables.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Migrations\\20250525080904_CreatingIdentityTables.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Migrations\\20250525080904_CreatingIdentityTables.cs",
@@ -408,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CompaniesController.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\Controllers\\CompaniesController.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\Controllers\\CompaniesController.cs",
@@ -416,12 +479,11 @@
               "RelativeToolTip": "CompanyEmployees.Presentation\\Controllers\\CompaniesController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAADwvzAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T10:51:25.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T10:51:25.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CompanyService.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\CompanyService.cs",
               "RelativeDocumentMoniker": "Service\\CompanyService.cs",
@@ -433,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
@@ -445,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "dbo.AspNetUsers.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyEmployee/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyEmployee/True/SqlTable/dbo.AspNetUsers.sql",
@@ -454,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "CompaniesV2Controller.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\Controllers\\CompaniesV2Controller.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\Controllers\\CompaniesV2Controller.cs",
@@ -462,12 +524,11 @@
               "RelativeToolTip": "CompanyEmployees.Presentation\\Controllers\\CompaniesV2Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA0wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:39:09.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T05:39:09.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "Service\\AuthenticationService.cs",
@@ -479,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\ServiceManager.cs",
               "RelativeDocumentMoniker": "Service\\ServiceManager.cs",
@@ -491,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service.Contracts\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "Service.Contracts\\IAuthenticationService.cs",
@@ -503,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "JwtConfiguration.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\ConfigurationModels\\JwtConfiguration.cs",
               "RelativeDocumentMoniker": "Entities\\ConfigurationModels\\JwtConfiguration.cs",
@@ -515,19 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Entities.csproj",
-              "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Entities.csproj",
-              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Entities.csproj",
-              "RelativeToolTip": "Entities\\Entities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T11:13:11.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "TokenDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\TokenDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\TokenDto.cs",
@@ -539,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "dbo.AspNetRoles.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyEmployee/True/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CompanyEmployee/True/SqlTable/dbo.AspNetRoles.sql",
@@ -548,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\Configuration\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "Repository\\Configuration\\RoleConfiguration.cs",
@@ -560,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
@@ -572,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "UserForAuthenticationDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\UserForAuthenticationDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\UserForAuthenticationDto.cs",
@@ -584,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "IServiceManager.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service.Contracts\\IServiceManager.cs",
               "RelativeDocumentMoniker": "Service.Contracts\\IServiceManager.cs",
@@ -596,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Service.csproj",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\Service.csproj",
               "RelativeDocumentMoniker": "Service\\Service.csproj",
@@ -608,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Service\\MappingProfile.cs",
@@ -620,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CompanyConfiguration.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\Configuration\\CompanyConfiguration.cs",
               "RelativeDocumentMoniker": "Repository\\Configuration\\CompanyConfiguration.cs",
@@ -632,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\Configuration\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "Repository\\Configuration\\EmployeeConfiguration.cs",
@@ -644,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "RepositoryContext.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\RepositoryContext.cs",
               "RelativeDocumentMoniker": "Repository\\RepositoryContext.cs",
@@ -656,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "RootController.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\Controllers\\RootController.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\Controllers\\RootController.cs",
@@ -668,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Link.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\LinkModels\\Link.cs",
               "RelativeDocumentMoniker": "Entities\\LinkModels\\Link.cs",
@@ -680,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\Controllers\\EmployeesController.cs",
@@ -688,12 +737,11 @@
               "RelativeToolTip": "CompanyEmployees.Presentation\\Controllers\\EmployeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBxwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:24:16.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T08:24:16.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Service\\EmployeeService.cs",
@@ -705,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "ValidateMediaTypeAttribute.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\ActionFilters\\ValidateMediaTypeAttribute.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\ActionFilters\\ValidateMediaTypeAttribute.cs",
@@ -717,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "EmployeeLinks.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Utility\\EmployeeLinks.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Utility\\EmployeeLinks.cs",
@@ -725,12 +773,11 @@
               "RelativeToolTip": "CompanyEmployees\\Utility\\EmployeeLinks.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAAwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:52:50.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:52:50.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service.Contracts\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Service.Contracts\\IEmployeeService.cs",
@@ -742,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "LinkParameters.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\LinkModels\\LinkParameters.cs",
               "RelativeDocumentMoniker": "Entities\\LinkModels\\LinkParameters.cs",
@@ -754,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "IEmployeeLinks.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Contracts\\IEmployeeLinks.cs",
               "RelativeDocumentMoniker": "Contracts\\IEmployeeLinks.cs",
@@ -766,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "DataShaper.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Service\\DataShaping\\DataShaper.cs",
               "RelativeDocumentMoniker": "Service\\DataShaping\\DataShaper.cs",
@@ -778,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "LinkResourceBase.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\LinkModels\\LinkResourceBase.cs",
               "RelativeDocumentMoniker": "Entities\\LinkModels\\LinkResourceBase.cs",
@@ -790,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Employee.cs",
@@ -802,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "CsvOutputFormatter.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\CsvOutputFormatter.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\CsvOutputFormatter.cs",
@@ -810,12 +857,11 @@
               "RelativeToolTip": "CompanyEmployees\\CsvOutputFormatter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T14:16:37.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T14:16:37.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\EmployeeDto.cs",
@@ -827,7 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "IDataShaper.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Contracts\\IDataShaper.cs",
               "RelativeDocumentMoniker": "Contracts\\IDataShaper.cs",
@@ -839,7 +885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "RepositoryEmployeeExtensions.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\Extensions\\RepositoryEmployeeExtensions.cs",
               "RelativeDocumentMoniker": "Repository\\Extensions\\RepositoryEmployeeExtensions.cs",
@@ -851,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "OrderQueryBuilder.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\Extensions\\Utility\\OrderQueryBuilder.cs",
               "RelativeDocumentMoniker": "Repository\\Extensions\\Utility\\OrderQueryBuilder.cs",
@@ -863,7 +909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Repository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
@@ -875,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "EmployeeParameters.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\RequestFeatures\\EmployeeParameters.cs",
               "RelativeDocumentMoniker": "Shared\\RequestFeatures\\EmployeeParameters.cs",
@@ -887,7 +933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "RequestParameters.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\RequestFeatures\\RequestParameters.cs",
               "RelativeDocumentMoniker": "Shared\\RequestFeatures\\RequestParameters.cs",
@@ -899,7 +945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Contracts\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Contracts\\IEmployeeRepository.cs",
@@ -911,7 +957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "MetaData.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\RequestFeatures\\MetaData.cs",
               "RelativeDocumentMoniker": "Shared\\RequestFeatures\\MetaData.cs",
@@ -923,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "PagedList.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\RequestFeatures\\PagedList.cs",
               "RelativeDocumentMoniker": "Shared\\RequestFeatures\\PagedList.cs",
@@ -935,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Contracts\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "Contracts\\ICompanyRepository.cs",
@@ -947,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Contracts\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "Contracts\\IRepositoryManager.cs",
@@ -959,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "AsyncActionFilterExample.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\AsyncActionFilterExample.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\AsyncActionFilterExample.cs",
@@ -971,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "ActionFilterExample.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\ActionFilterExample.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\ActionFilterExample.cs",
@@ -983,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "CompanyForManipulationDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\CompanyForManipulationDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\CompanyForManipulationDto.cs",
@@ -995,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "EmployeeForManipulationDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\EmployeeForManipulationDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\EmployeeForManipulationDto.cs",
@@ -1007,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "CompanyDto.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Shared\\DataTransferObjects\\CompanyDto.cs",
               "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\CompanyDto.cs",
@@ -1019,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "RepositoryContextFactory.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
@@ -1027,12 +1073,11 @@
               "RelativeToolTip": "CompanyEmployees\\ContextFactory\\RepositoryContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T09:30:47.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T09:30:47.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "Company.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Models\\Company.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Company.cs",
@@ -1044,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "ArrayModelBinder.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees.Presentation\\ModelBinders\\ArrayModelBinder.cs",
               "RelativeDocumentMoniker": "CompanyEmployees.Presentation\\ModelBinders\\ArrayModelBinder.cs",
@@ -1056,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "CompanyCollectionBadRequest.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\CompanyCollectionBadRequest.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\CompanyCollectionBadRequest.cs",
@@ -1068,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "CollectionByIdsBadRequestException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\CollectionByIdsBadRequestException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\CollectionByIdsBadRequestException.cs",
@@ -1080,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "IdParametersBadRequestException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\IdParametersBadRequestException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\IdParametersBadRequestException.cs",
@@ -1092,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\BadRequestException.cs",
@@ -1104,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "EmployeeNotFoundException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\EmployeeNotFoundException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\EmployeeNotFoundException.cs",
@@ -1116,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "CompanyNotFoundException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\CompanyNotFoundException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\CompanyNotFoundException.cs",
@@ -1128,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\Entities\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Entities\\Exceptions\\NotFoundException.cs",
@@ -1140,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "ExceptionMiddlewareExtensions.cs",
               "DocumentMoniker": "D:\\My Study\\Asp.net Api Book Practice\\CompanyEmployees\\CompanyEmployees\\Extensions\\ExceptionMiddlewareExtensions.cs",
               "RelativeDocumentMoniker": "CompanyEmployees\\Extensions\\ExceptionMiddlewareExtensions.cs",
