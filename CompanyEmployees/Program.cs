@@ -78,6 +78,7 @@ if(app.Environment.IsProduction())
     app.UseHsts();
 else
 {
+    app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI(s =>
     {

@@ -252,3 +252,4 @@ D:\My Study\Asp.net Api Book Practice\CompanyEmployees\CompanyEmployees\obj\Debu
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.genruntimeconfig.cache
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\ref\CompanyEmployees.dll
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.sourcelink.json

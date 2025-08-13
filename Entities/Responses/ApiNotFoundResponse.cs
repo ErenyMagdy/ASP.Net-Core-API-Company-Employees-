@@ -9,7 +9,7 @@ namespace Entities.Responses
     public abstract class ApiNotFoundResponse: ApiBaseResponse
     {
         public string Message { get; set; }
-        protected ApiNotFoundResponse(string message):base(true)
+        protected ApiNotFoundResponse(string message) :base(false)
         {
             Message = message;
         }

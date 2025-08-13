@@ -2,6 +2,7 @@
 using Contracts;
 using Entities.Exceptions;
 using Entities.Models;
+using Entities.Responses;
 using Service.Contracts;
 using Shared.DataTransferObjects;
 using System;
@@ -26,16 +27,19 @@ namespace Service
             _repository = repository;
             _mapper = mapper;
         }
-        public async Task<IEnumerable<CompanyDto>> GetAllCompaniesAsync(bool trackChanges){
+        public async Task<ApiBaseResponse> GetAllCompaniesAsync(bool trackChanges){
                 var companies = await _repository.Company.GetAllCompaniesAsync(trackChanges);
                 var companiesDto =_mapper.Map<IEnumerable<CompanyDto>>(companies);
-                return companiesDto;
+                return new ApiOkResponse<IEnumerable<CompanyDto>>(companiesDto);
         }
-        public async Task<CompanyDto> GetCompanyAsync(Guid id, bool trackChanges){
+        public async Task<ApiBaseResponse> GetCompanyAsync(Guid id, bool trackChanges){
 
-            var company = await GetCompanyAndCheckIfItExists(id, trackChanges);
+            //var company = await GetCompanyAndCheckIfItExists(id, trackChanges);
+            var company = await _repository.Company.GetCompanyAsync(id, trackChanges);
+            if (company is null)
+                return new CompanyNotFoundResponse(id);
             var companyDto = _mapper.Map<CompanyDto>(company);
-            return companyDto;
+            return  new ApiOkResponse<CompanyDto>(companyDto);
         }
         public async Task<CompanyDto> CreateCompany(CompanyForCreationDto companyForCreationDto)
         {

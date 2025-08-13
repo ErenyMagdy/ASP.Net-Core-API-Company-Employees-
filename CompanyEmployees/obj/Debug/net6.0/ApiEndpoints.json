@@ -87,6 +87,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CompanyEmployees.Presentation.Controllers.ApiControllerBase",
+    "Method": "ProcessError",
+    "RelativePath": "api/companies",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baseResponse",
+        "Type": "Entities.Responses.ApiBaseResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CompanyEmployees.Presentation.Controllers.CompaniesV2Controller",
     "Method": "GetCompanies",
     "RelativePath": "api/companies",

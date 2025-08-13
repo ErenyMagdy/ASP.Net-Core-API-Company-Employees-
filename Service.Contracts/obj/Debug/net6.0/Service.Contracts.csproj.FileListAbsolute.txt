@@ -32,3 +32,4 @@ D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Deb
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Service.Contracts\obj\Debug\net6.0\Service.Contracts.sourcelink.json

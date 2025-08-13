@@ -36,3 +36,4 @@ D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.sourcelink.json

@@ -36,3 +36,4 @@ D:\My Study\Asp.net Api Book Practice\CompanyEmployees\LoggerService\obj\Debug\n
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
 D:\My Study\Asp.net Api Book Practice\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+D:\My Study\Asp.net Api Book Practice\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.sourcelink.json
